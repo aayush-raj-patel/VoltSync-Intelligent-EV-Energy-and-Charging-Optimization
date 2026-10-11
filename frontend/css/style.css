@@ -1,0 +1,36 @@
+body {
+    background-color: #f4f6f9;
+    color: #212529;
+    font-family: Arial, sans-serif;
+}
+
+.dashboard-card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    height: 100%;
+}
+
+.dashboard-card h2 {
+    margin-top: 12px;
+    font-weight: 700;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.card-header {
+    font-weight: 600;
+    background: white;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+#message {
+    white-space: pre-wrap;
+}
